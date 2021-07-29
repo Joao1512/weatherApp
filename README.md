@@ -1,3 +1,13 @@
+<p align="center">
+  WeatherApp
+</p>
+
+<h1 align="center">
+    <img alt="weatherApp" src=".github/dark.png" />
+</h1>
+
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
