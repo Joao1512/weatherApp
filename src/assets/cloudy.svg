@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.966" height="106.031" viewBox="0 0 107.966 106.031">
+  <g id="Grupo_27" data-name="Grupo 27" transform="translate(-497.947 -197)">
+    <g id="Cloudy_Icon" data-name="Cloudy Icon" transform="translate(497.947 197)">
+      <circle id="Sun" cx="50.694" cy="50.694" r="50.694" transform="translate(6.579)" fill="#ffde17"/>
+      <g id="Cloud" transform="translate(0 56.885)">
+        <circle id="Elipse_4" data-name="Elipse 4" cx="14.705" cy="14.705" r="14.705" transform="translate(8.9 0)" fill="#fff"/>
+        <circle id="Elipse_5" data-name="Elipse 5" cx="14.705" cy="14.705" r="14.705" transform="translate(25.54 7.352)" fill="#fff"/>
+        <ellipse id="Elipse_6" data-name="Elipse 6" cx="16.228" cy="14.705" rx="16.228" ry="14.705" transform="translate(39.956 19.736)" fill="#fff"/>
+        <rect id="Retângulo_12" data-name="Retângulo 12" width="54.95" height="29.41" transform="translate(0 19.736)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
