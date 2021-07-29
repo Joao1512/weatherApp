@@ -8,6 +8,15 @@
 
 <br>
 
+## 🧪 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [React-Leaflet](https://react-leaflet.js.org/)
+- [MapBox](https://www.mapbox.com/)
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
