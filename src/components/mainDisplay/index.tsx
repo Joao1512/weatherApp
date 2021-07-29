@@ -6,11 +6,6 @@ import { getCityInfos } from '../../service/openweather'
 import { useState } from 'react'
 import { Map } from '../map'
 import { useTheme } from '../../hooks/useTheme'
-
-type TypeDataRes = {
-    data: TypeDataInfo[] ;
-    count: number
-}
 type TypeDataInfo = {
     cityName: string | undefined,
     temperature: number | null,

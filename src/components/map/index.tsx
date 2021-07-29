@@ -1,6 +1,3 @@
-import { LatLngExpression } from "leaflet";
-import { useEffect } from "react";
-import { useContext } from "react";
 import { useState } from "react";
 import { MapContainer, Marker, Popup, TileLayer, useMapEvents } from "react-leaflet";
 import { useTheme } from "../../hooks/useTheme";
@@ -14,7 +11,6 @@ type TypeProps = {
 export function Map(props: TypeProps) {
     const [position, setPosition] = useState({lat: 0, lng: 0})
     const { themeContext } = useTheme()
-    const [map, setMap] = useState('dark')
     
     function LocationMarker() {
         const map = useMapEvents({
@@ -58,10 +54,6 @@ export function Map(props: TypeProps) {
 
       )
     }
-
-    useEffect(() => {
-      setMap(themeContext)
-    }, [themeContext])
     return (
         <>
             <div className="map">

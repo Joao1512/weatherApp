@@ -3,7 +3,7 @@ import { useTheme } from '../../hooks/useTheme'
 import './index.scss'
 export function Menu() {
     const [theme, setTheme] = useState('light')
-    const { themeContext, setThemeContext } = useTheme()
+    const {setThemeContext } = useTheme()
     function handleThemeClick(e: any) {
         e.value === 'dark' ? setTheme('light') : setTheme('dark')    
         setThemeContext(e.value)
