@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="weatherApp" src=".github/dark.png" />
+    <img alt="weatherApp" src=".github/dark.PNG" />
 </h1>
 
 <br>
